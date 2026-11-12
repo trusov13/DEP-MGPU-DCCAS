@@ -65,7 +65,7 @@ WHERE order_status = 'delivered'
 | 4 | Кольцевая диаграмма | Способы оплаты |
 | 5 | Комбинированная диаграмма | Заказы и средний чек |
 
-![Дашборд](img/dashboard.png)
+![Дашборд](img/dashbord.png)
 
 ![Датасет](img/dataset.png)
 
