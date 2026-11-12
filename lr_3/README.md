@@ -55,7 +55,7 @@ WHERE order_status = 'delivered'
 | Средний чек, BRL | 159.79 |
 
 ## Дашборд DataLens
-Ссылка: <!-- https://datalens.yandex/2efiwk4mhcx6l?_share_link=public-->
+Ссылка: https://datalens.yandex/2efiwk4mhcx6l?_share_link=public
 
 | № | Тип | Название |
 |---|---|---|
